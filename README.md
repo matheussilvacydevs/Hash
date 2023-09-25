@@ -49,3 +49,7 @@ Este jogo da velha foi criado por [Matheus Silva](https://github.com/matheussilv
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+<div align="center">
+<a href="https://ibb.co/XLZJkb4"><img src="https://i.ibb.co/vqxzvHB/pngwing-com-1.png" alt="pngwing-com-1" border="0" /></a>
+  </div>

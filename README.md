@@ -1,6 +1,5 @@
-# Hash
 
-# Jogo da Velha em Código
+# Jogo da Velha
 
 Este é um projeto simples de um jogo da velha implementado em HTML, CSS e JavaScript.
 
